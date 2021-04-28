@@ -1,2 +1,10 @@
-# Robo_analise_de_dados
+# Robô de Automação
+
 Robô para análise de dados de vendas.
+
+Requisitos necessários:
+
+•
+•
+•
+•
