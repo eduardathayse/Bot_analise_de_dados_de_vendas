@@ -1,12 +1,12 @@
 # Robô de Automação
 
-================================= Robô para análise de dados de vendas =================================
+================================= Robô para análise de vendas =================================
 
 ► Finalidade:
-enviar um e-mail, com o faturamento e a quantidade de produtos vendidos  da empresa x no dia anterior.
+enviar um e-mail, com o faturamento e a quantidade de produtos vendidos da empresa x no dia anterior.
 
 
-► Local de exemplo onde o sistema disponibiliza as vendas do dia anterior: 
+► Local utilizado de exemplo onde o sistema disponibiliza as vendas do dia anterior: 
 https://drive.google.com/drive/folders/1mhXZ3JPAnekXP_4vX7Z_sJj35VWqayaR?usp=sharing
 
 
